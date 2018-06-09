@@ -1,0 +1,12 @@
+{
+  "name": "sort-imports",
+  "version": "1.0.0",
+  "author": "Willson Mock <willson.mock@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {}
+}
